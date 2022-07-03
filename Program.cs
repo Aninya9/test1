@@ -6,3 +6,7 @@ if (n < 4) Console.WriteLine(arr[0]);
 char[] b = arr[0].ToCharArray();
 int m = arr[1].Length;
 if (m < 4) Console.WriteLine(arr[1]);
+
+char[] c = arr[0].ToCharArray();
+int l = arr[2].Length;
+if (l < 4) Console.WriteLine(arr[2]);
